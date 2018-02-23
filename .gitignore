@@ -1,0 +1,7 @@
+*.json
+*.pyc
+*.log
+crawls/
+.DS_Store
+.idea/
+
