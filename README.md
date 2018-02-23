@@ -1,7 +1,7 @@
 u2porn网站爬虫
 ===
 
-基于`scrapy`框架, 使用前请想安装scrapy依赖:
+基于`scrapy`框架, 使用前请先安装scrapy依赖:
 
 ``` shell
 pip install -r requirements.txt
